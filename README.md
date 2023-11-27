@@ -1,8 +1,16 @@
-# React + Vite
+# A real-time crypto treasury management and accounting/financial software.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**This project is incomplete!**
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Reconcile and book-keep transactions automatically.
+- Get real-time visibility of your treasury
+- Integration with Paytrie(Canada) and Transak for crypto on-and-off-ramp globally.
+
+
+## Contributing
+
+>If you wish to contribute a change to any of the existing features, please send a pull request. 
+
+>For major changes or adding a new feature, please open an issue first to discuss what you would like to change.
