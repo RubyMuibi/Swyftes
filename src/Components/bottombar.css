@@ -1,0 +1,14 @@
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin-left: 17%;
+    width: 81%;
+    background-color: #fff; /* Set your desired background color */
+    border-top: 1px solid #000; /* Add a border if needed */
+    padding: 5px; /* Adjust padding as needed */
+  }
+  a{
+    text-decoration: none;
+    color: #000;
+  }

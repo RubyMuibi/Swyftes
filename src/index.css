@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caladea:wght@400;700&family=Plus+Jakarta+Sans:wght@300;500;700;800&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Caladea', serif;
+/* font-family: 'Plus Jakarta Sans', sans-serif; */
+}
+.border , .border-bottom , .border-top , .border-right ,.border-left{
+  border-color: black !important;
+}
+.bg-white{
+  background-color: white !important;
+}
+.dropdown-toggle::after {
+/* margin-left: 40px !important; */
+/* text-align: end !important; */
+display: none;
+}

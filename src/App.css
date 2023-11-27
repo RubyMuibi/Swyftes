@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Caladea:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+ul  {
+    list-style-type: square;
+    width: 20px !important;
+  }
+
+
+td b{
+color: #000000;
+
+}
+
+.drop-shadow {
+  box-shadow: 25px 15px 0px 0px #1E1E1E;
+  -webkit-box-shadow: 25px 15px 0px 0px #1E1E1E;
+  -moz-box-shadow: 25px 15px 0px 0px #1E1E1E;
+    /* border: 3px solid #000; */
+  }
+  .drop-shadow-cashflow{
+    box-shadow: 10px 10px 0px 0px #1E1E1E;
+    -webkit-box-shadow: 10px 10px 0px 0px #1E1E1E;
+    -moz-box-shadow: 10px 10px 0px 0px #1E1E1E;
+  }
+
+tr{
+  border-bottom: 0.6px solid black !important;
+}
+
+  body {
+text-transform: uppercase
+;
+  }
+.desktopnone{
+  display: none !important;
+}
+  ul.b {
+    list-style-type: square;
+  }
+  .table-container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  option {
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+  }
+
+ 
+
+
+
+.hello .modal-dialog{
+margin-right: auto !important;
+}
+
+
+  .table a{
+  text-decoration: none !important;
+}
+
+  
+  /* Hover state */
+  option:hover {
+    background-color: #000000 !important;
+  }
+  
+  /* Active state (when selected) */
+  option:checked {
+    background-color: #020202;
+    color: #fff;
+  }
+  .onmobilenone{
+    display: flex !important;
+  }
+
+  @media (max-width: 600px) {
+    .mobileblock{
+     display: block !important;
+     
+     
+    }
+.onmobilenone{
+  display: none !important;
+}
+    .mobilenone{
+      display: none !important;
+    }
+    .margintopmobile{
+      margin-top: 15px !important;
+    }
+    body{
+      overflow-x: hidden;
+    }
+    .desktopnone{
+      display: block !important;
+    }
+    .mobilewidth{
+      width: 90% !important;
+    margin-left: 5% !important;
+      }
+  }
+
+  

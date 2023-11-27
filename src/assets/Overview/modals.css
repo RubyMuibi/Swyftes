@@ -1,0 +1,11 @@
+/* .modal-right {
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0;
+  } */
+  
+ .modal-dialog {
+ 
+    margin-right: 0px !important;
+  }

@@ -1,0 +1,7 @@
+.with-dot {
+    background-image: url('/black.svg');
+    background-repeat: no-repeat;
+    background-size: 10px; /* Adjust the size of the dot */
+    background-position: 0 50%; /* Adjust the position of the dot */
+    padding-left: 20px !important; /* Add some left padding to make room for the dot */
+  }
